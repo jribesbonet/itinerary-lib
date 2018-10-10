@@ -1,2 +1,6 @@
+/Users/jribes/workspaces/workspace.pocdev/itinerary-lib/src/main/java/com/jribes/itinerarlib/dijkstra/Graph.java
+/Users/jribes/workspaces/workspace.pocdev/itinerary-lib/src/main/java/com/jribes/itinerarlib/dijkstra/Edge.java
 /Users/jribes/workspaces/workspace.pocdev/itinerary-lib/src/main/java/com/jribes/itinerarlib/exception/IncorrectFormatCityException.java
+/Users/jribes/workspaces/workspace.pocdev/itinerary-lib/src/main/java/com/jribes/itinerarlib/dijkstra/DijkstraAlgorithm.java
+/Users/jribes/workspaces/workspace.pocdev/itinerary-lib/src/main/java/com/jribes/itinerarlib/dijkstra/Vertex.java
 /Users/jribes/workspaces/workspace.pocdev/itinerary-lib/src/main/java/com/jribes/itinerarlib/domain/City.java

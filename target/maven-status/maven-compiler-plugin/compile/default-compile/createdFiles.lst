@@ -1,0 +1,6 @@
+com/jribes/itinerarlib/dijkstra/Graph.class
+com/jribes/itinerarlib/dijkstra/DijkstraAlgorithm.class
+com/jribes/itinerarlib/exception/IncorrectFormatCityException.class
+com/jribes/itinerarlib/dijkstra/Vertex.class
+com/jribes/itinerarlib/dijkstra/Edge.class
+com/jribes/itinerarlib/domain/City.class
